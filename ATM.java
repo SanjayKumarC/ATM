@@ -1,15 +1,3 @@
-
-/**
-* This program simulates a simple ATM environment.
-* ATM supports deposits, withdrawals, transfers, and balance inquiries.
-* ATM does not currently validate user input.
-* All currency is in USD $
-* @author Carlos Capo 2011
-* @version 0.1
-*
-*/
-
-
 import java.text.NumberFormat; // Helps with formatting doubles as currency
 import java.util.Scanner; // Will be used to get input from the user
 
